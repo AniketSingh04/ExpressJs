@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Middlewares/index.js",
-    "dev": "nodemon Middlewares/index.js"
+    "start": "node CRUD/index.js",
+    "dev": "nodemon CRUD/index.js"
   },
   "author": "aniket_raj_singh",
   "license": "ISC",
