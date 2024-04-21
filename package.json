@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node CRUD/index.js",
-    "dev": "nodemon CRUD/index.js"
+    "start": "node CRUD/controllers/index.js",
+    "dev": "nodemon CRUD/controllers/index.js"
   },
   "author": "aniket_raj_singh",
   "license": "ISC",
