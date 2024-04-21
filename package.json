@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Express_Static/index.js",
-    "dev": "nodemon Express_Static/index.js"
+    "start": "node Express_JSON/index.js",
+    "dev": "nodemon Express_JSON/index.js"
   },
   "author": "aniket_raj_singh",
   "license": "ISC",
